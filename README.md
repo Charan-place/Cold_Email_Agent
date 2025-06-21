@@ -190,5 +190,5 @@ In this project:
 
 ## 🙌 Credits
 
-Made with ❤️ by [Your Name]  
+Made with ❤️ by Charan, Rishikesh
 Tech Stack: FastAPI, LangGraph, Gemini, Celery, Redis, MySQL

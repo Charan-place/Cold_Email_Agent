@@ -181,7 +181,13 @@ In this project:
 | `.env not loading` | Check file name isn't `.env.txt` |
 
 ---
+## 🧭 Architecture Diagram
 
+Here's how the Cold Email Agent works internally:
+
+![Cold Email Agent Architecture](./assets/architecture.png)
+
+---
 ## ✨ Future Improvements
 
 - Add email tracking (open/read notifications)

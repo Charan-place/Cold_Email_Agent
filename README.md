@@ -95,9 +95,8 @@ sender_app_password=your_gmail_app_password_here
 
 - 🐬 Start **MySQL** locally or via services like XAMPP, Docker, etc.
 - 🔴 Start **Redis server**:
-👉 **Redis Download Link for Windows**:
+-👉 **Redis Download Link for Windows**:
 https://github.com/tporadowski/redis/releases
-
 Download the *.msi* or *.zip* file and install it. Then run:
 
 ```bash

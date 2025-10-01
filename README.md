@@ -199,5 +199,5 @@ Here's how the Cold Email Agent works internally:
 
 ## 🙌 Credits
 
-Made with ❤️ by Charan, Rishikesh
+Made with ❤️ by Charan
 Tech Stack: FastAPI, LangGraph, Gemini, Celery, Redis, MySQL
